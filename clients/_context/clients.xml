@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<clients>
+	<client>
+		<id>bristolalliance</id>
+		<name>Bristol Alliance</name>
+		<summary>
+			<p>The Bristol Alliance is a 50:50 joint venture between Land Securities Group PLC and Hammerson plc. The Alliance is responsible for the redevelopment of Bristol’s central shopping area.</p>
+		</summary>
+		<related>
+			<client>
+				<id>landsecurities</id>
+				<name>Land Securities</name>
+			</client>
+			<client>
+				<id>hammerson</id>
+				<name>Hammerson</name>
+			</client>
+		</related>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>landsecurities</id>
+		<name>Land Securities</name>
+		<related>
+			<client>
+				<id>bristolalliance</id>
+				<name>Bristol Alliance</name>
+			</client>
+		</related>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>hammerson</id>
+		<name>Hammerson</name>
+		<related>
+			<client>
+				<id>bristolalliance</id>
+				<name>Bristol Alliance</name>
+			</client>
+		</related>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>multi</id>
+		<name>Multi Developments</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>canterbury</id>
+		<name>Canterbury City Council</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>forestofdean</id>
+		<name>Forest of Dean Sculpture Trust</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>forestenterprise</id>
+		<name>Forest Enterprise</name>
+		<summary>
+			<p>Forest Enterprise is the agency set up by the Forestry Commission to manage the its forest estate.</p>
+		</summary>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>wolverhamptonuniversity</id>
+		<name>Wolverhampton University</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>eastkent</id>
+		<name>East Kent Consortium</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>wolverhampton</id>
+		<name>Wolverhampton MBC</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>stratforduponavon</id>
+		<name>Stratford upon Avon District Council</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>warwickshirecc</id>
+		<name>Warwickshire County Council</name>
+		<casestudy>No</casestudy>
+	</client>
+	<client>
+		<id>baa</id>
+		<name>British Airports Authority</name>
+		<casestudy>No</casestudy>
+	</client>
+</clients>

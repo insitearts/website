@@ -1,0 +1,1 @@
+<?php include("../_includes/artist_page.php"); ?>

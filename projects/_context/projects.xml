@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<projects>
+	<project>
+		<id>cabotcircus</id>
+		<name>Cabot Circus, Bristol</name>
+		<client>Bristol Alliance</client>
+		<clientid>bristolalliance</clientid>
+		<artists>
+			<artist>Neville Gabie</artist>
+			<artist>Nayan Kulkarni</artist>
+			<artist>Susanna Heron</artist>
+			<artist>Timorous Beasties</artist>
+			<artist>Vong Phaophanit &amp; Claire Oboussier</artist>
+			<artist>Esther Rolinson</artist>
+			<artist>Ralph Hoyte</artist>
+			<artist>Claire Morgan</artist>
+			<artist>Blackout Arts</artist>
+		</artists>
+		<summary>
+			<p>At the heart of Cabot Circus is an ambitious and innovative series 
+of site-specific public art works, the result of one of the largest 
+and most diverse public art programmes of its kind in Europe.</p>
+		</summary>
+		<related>
+			<project>
+				<id>cabotcircuspermanent</id>
+				<name>Permanent works</name>
+			</project>
+			<project>
+				<id>cabotcircustemporary</id>
+				<name>Temporary programme</name>
+			</project>
+			<project>
+				<id>bs1</id>
+				<name>BS1 programme</name>
+			</project>
+		</related>
+		<status>Current</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>cabotcircuspermanent</id>
+		<name>Cabot Circus permanent works</name>
+		<client>Bristol Alliance</client>
+		<clientid>bristolalliance</clientid>
+		<artists>
+			<artist>Nayan Kulkarni</artist>
+			<artist>Susanna Heron</artist>
+			<artist>Timorous Beasties</artist>
+			<artist>Vong Phoaphanit &amp; Claire Oboussier</artist>
+			<artist>Esther Rolinson</artist>
+		</artists>
+		<related>
+			<project>
+				<id>cabotcircustemporary</id>
+				<name>Temporary programme</name>
+			</project>
+			<project>
+				<id>bs1</id>
+				<name>BS1 programme</name>
+			</project>
+			<project>
+				<id>cabotcircus</id>
+				<name>Cabot Circus summary</name>
+			</project>
+		</related>
+		<status>Subproject</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>cabotcircustemporary</id>
+		<name>Cabot Circus temporary programme</name>
+		<client>Bristol Alliance</client>
+		<clientid>bristolalliance</clientid>
+		<artists>
+			<artist>Ralph Hoyte</artist>
+			<artist>Claire Morgan</artist>
+			<artist>Blackout Arts</artist>
+		</artists>
+		<related>
+			<project>
+				<id>cabotcircuspermanent</id>
+				<name>Permanent works</name>
+			</project>
+			<project>
+				<id>bs1</id>
+				<name>BS1 programme</name>
+			</project>
+			<project>
+				<id>cabotcircus</id>
+				<name>Cabot Circus summary</name>
+			</project>
+		</related>
+		<status>Subproject</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>bs1</id>
+		<name>BS1 programme</name>
+		<client>Bristol Alliance</client>
+		<clientid>bristolalliance</clientid>
+		<artists>
+			<artist>Neville Gabie</artist>
+			<artist>Dryden Goodwin</artist>
+			<artist>Marie-Jeanne Hoffner</artist>
+			<artist>Dan Perjovschi</artist>
+			<artist>Leo Fitzmaurice</artist>
+			<artist>Donna Daley Clarke</artist>
+		</artists>
+		<related>
+			<project>
+				<id>cabotcircuspermanent</id>
+				<name>Permanent works</name>
+			</project>
+			<project>
+				<id>cabotcircustemporary</id>
+				<name>Temporary programme</name>
+			</project>
+			<project>
+				<id>cabotcircus</id>
+				<name>Cabot Circus summary</name>
+			</project>
+		</related>
+		<status>Subproject</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>highcross</id>
+		<name>Leicester Highcross</name>
+		<client>Hammerson</client>
+		<clientid>hammerson</clientid>
+		<artists>
+			<artist>Katayoun Dowlatshahi</artist>
+		</artists>
+		<summary>
+			<p>A small programme of commissions for the Highcross Quarter’s development. Each work was 
+			conceived to be integral part of the new development. The artworks all assume a natural 
+			presence within its given location and, at the same time, give Highcross Quarter another 
+			means of expressing its unique identity.</p>
+		</summary>
+		<status>Current</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>christslane</id>
+		<name>Christ's Lane, Cambridge</name>
+		<client>Land Securities</client>
+		<clientid>landsecurities</clientid>
+		<artists>
+			<artist>Jane Watt</artist>
+		</artists>
+		<summary>
+			<p>Jane Watt was commissioned by Land Securities to work with their landscape architects and architects, 
+			Panter Hudspith to develop a work within the Christ’s Lane Development. The work is a long wall of glass. 
+			Entitled ‘Wall of Letters’ the work consists of approximately 100 glass panels and will incorporate 
+			almost 32,000 letters in total, creating a monumental scale ‘word-search’</p>
+		</summary>
+		<status>Current</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>buchanan</id>
+		<name>Buchanan Galleries Glasgow</name>
+		<client>Land Securities</client>
+		<clientid>landsecurities</clientid>
+		<status>Current</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>southgatebath</id>
+		<name>Southgate Bath</name>
+		<client>Multi Developments</client>
+		<clientid>multi</clientid>
+		<status>Current</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>summerrow</id>
+		<name>Summer Row, Wolverhampton</name>
+		<client>Multi Developments</client>
+		<clientid>multi</clientid>
+		<status>Current</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>princesshay</id>
+		<name>Princesshay Development, Exeter</name>
+		<client>Land Securities</client>
+		<clientid>landsecurities</clientid>
+		<artists>
+			<artist>Patrick Shanahan</artist>
+			<artist>Patricia MacKinnon-Day</artist>
+			<artist>Katayoun Dowlatshahi</artist>
+			<artist>Roger Dean</artist>
+		</artists>
+		<period>2002 -
+ 2007</period>
+		<summary>
+			<p>The Exeter Princesshay commission programme can be characterised by the level of collaboration 
+between the artists and the project team. Architects:  Wilkinson Eyre and Chapman Taylor Associates. 
+Landscape architects: Livingston Eyre. Lighting designer: BDP Lighting.</p>
+			<p>InSite Arts was responsible for the preparation of Strategy and the commissioning of artists 
+within this City Centre Development. Collaborating with the project design team, working with a 
+Scheduled Ancient Monument, new build, refurbishments and temporary programme of work. 
+A work to animate 30 meters of hoarding through the construction programme. Publication available in 2008.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>sparks</id>
+		<name>Sparks - Make It Real</name>
+		<client>Canterbury City Council</client>
+		<clientid>canterbury</clientid>
+		<artists>
+			<artist>Vong Phaophanit &amp; Claire Oboussier</artist>
+			<artist>Claire Morgan</artist>
+			<artist>Heinrich &amp; Palmer</artist>
+		</artists>
+		<period>2005-2006</period>
+		<summary>
+			<p>Sarah Collicott curated and managed 3 light-based, new media commissions in Herne Bay, Whitstable and Canterbury. 
+Other artists shortlisted included London Fields, Jane Prophet, Robin Blackledge, Andrew Stonyer, 
+Jim Hamlyn and Jim Buckley, and Greyworld. Publication Available.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>whitefriars</id>
+		<name>Whitefriars Development Art Programme</name>
+		<client>Land Securities</client>
+		<clientid>landsecurities</clientid>
+		<artists>
+			<artist>Janet Hodgson</artist>
+			<artist>Susan Collins</artist>
+			<artist>Grennan &amp; Sperandio</artist>
+			<artist>Marion Kalmus</artist>
+			<artist>Susan Shaw</artist>
+		</artists>
+		<period>2001-2005</period>
+		<summary>
+			<p>InSite Arts, working in partnership with Canterbury City Council commissioned a programme of temporary and 
+permanent artworks in Whitefriars Shopping Development Canterbury for Land Securities. Lead artist Janet Hodgson, 
+temporary work by Janet Hodgson, Susan Collins, Grennan &amp; Sperandio, Marion Kalmus and Susan Shaw. Publication Available</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>willowplace</id>
+		<name>Willow Place, Corby</name>
+		<client>Land Securities</client>
+		<clientid>landsecurities</clientid>
+		<artists>
+			<artist>Grennan &amp; Sperandio</artist>
+		</artists>
+		<period>2006-2007</period>
+		<summary>
+			<p>InSite Arts worked with Land Securities project team to appoint Grennan and Sperandio to develop a work for a long term
+			hoarding around the former bus station within the Willow Place development. The artists created cartoon images of 
+			three Corby residents. The narratives sought to project their dreams and desires in life onto the town centre’s hoardings.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>walsallgateway</id>
+		<name>Gateway Sculpture, Walsall</name>
+		<artists>
+			<artist>Andrew Stonyer</artist>
+		</artists>
+		<period>2003-2005</period>
+		<summary>
+			<p>Permanent sculptural installation for major roundabout leading to Walsall City Centre.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>canterburytriangle</id>
+		<name>Canterbury Triangle </name>
+		<client>Land Securities</client>
+		<clientid>landsecurities</clientid>
+		<artists>
+			<artist>Kenny Hunter</artist>
+		</artists>
+		<summary>
+			<p>InSite Arts was the art consultant for a new work commissioned in a partnership between Fenwick 
+Department Store, Land Securities and Canterbury City Council.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>lightshift</id>
+		<name>Lightshift</name>
+		<client>Forest of Dean Sculpture Trust</client>
+		<clientid>forestofdean</clientid>
+		<summary>
+			<p>Curator, project manager of 7-night performance event in the Forest of Dean, 31 light- and 
+sound-based installations. Visitor number 40,000 plus. The project contributed to the regional 
+development agency's Foot and Mouth Recovery Plan. </p>
+		</summary>
+		<related>
+			<project>
+				<id>forestofdean</id>
+				<name>Forest of Dean Sculpture Trail</name>
+			</project>
+		</related>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>rvi</id>
+		<name>Royal Victoria Infirmary</name>
+		<summary>
+			<p>Joint art consultant with Hazel Colquhoun and Andrew Knight - development of an arts 
+programme for the new building and refurbishment of the hospital.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>grangepark</id>
+		<name>Northamptonshire - Grange Park</name>
+		<artists>
+			<artist>Iris Bertz</artist>
+			<artist>Michael Fairfax</artist>
+			<artist>Zoe Chamberlain</artist>
+			<artist>Rupert Clamp</artist>
+		</artists>
+		<summary>
+			<p>Public art consultant to advise on public art for the residential and industrial development. 
+Appointment of artists, Iris Bertz, Michael Fairfax, Zoe Chamberlain and Rupert Clamp. 
+Successful funding applications to RALP and Arts &amp; Business. </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>eastside</id>
+		<name>Eastside Development</name>
+		<summary>
+			<p>Advisor on the future strategic approach to commissioning artists for the Eastside development.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>electricwharf</id>
+		<name>Electric Wharf</name>
+		<summary>
+			<p>A programme, vision for the artistic involvement of this innovative mixed use development securing 
+funding from A&amp;B and developing commissioning strategy, management of adoption of strategy, 
+commissioning of artists, David Patten, Esther Rolinson, Muf, Charlie Gallagher. </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>westonbirt</id>
+		<name>Westonbirt International Festival of the Garden</name>
+		<client>Forest Enterprise</client>
+		<clientid>forestenterprise</clientid>
+		<artists>
+			<artist>Patricia MacKinnon-Day</artist>
+			<artist>Jane Watt</artist>
+			<artist>Leo Fitzmaurice</artist>
+			<artist>Andrew Stonyer</artist>
+			<artist>Clare Barber</artist>
+			<artist>Claire Morgan</artist>
+			<artist>Hannah Bennett</artist>
+			<artist>John Newling</artist>
+			<artist>Clare Brew</artist>
+			<artist>Katayoun Dowlatshahi</artist>
+			<artist>Susan Flowers</artist>
+			<artist>muf</artist>
+		</artists>
+		<period>2003-2004</period>
+		<summary>
+			<p>Curating of annual exhibition in Westonbirt Arboretum</p>
+			<p>2004 artists include: Patricia MacKinnon-Day, Jane Watt, Leo Fitzmaurice, Andrew Stonyer, 
+	  Clare Barber, Claire Morgan, Hannah Bennett</p>
+			<p>Artists for 2003: John Newling, Clare Brew, Katayoun Dowlatshahi, Susan Flowers and MUF </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>wolverhamptonuniversity</id>
+		<name>Wolverhampton University</name>
+		<client>Wolverhampton University</client>
+		<clientid>wolverhamptonuniversity</clientid>
+		<artists>
+			<artist>Lulu Quinn &amp; Julie Westerman</artist>
+		</artists>
+		<period>2002-2003</period>
+		<summary>
+			<p>Commissions manager for a permanent sculptural installation within the new build at the 
+University artist selected through open completion Lulu Quinn and Julie Westerman, completed winter 2002.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>eastkent</id>
+		<name>East Kent Consortium</name>
+		<clientid>eastkent</clientid>
+		<artists>
+			<artist>Robert Koenig</artist>
+			<artist>Catharyne Ward</artist>
+			<artist>Andrew Sabin</artist>
+			<artist>Doug Green</artist>
+			<artist>Nayan Kulkarni</artist>
+			<artist>muf</artist>
+		</artists>
+		<summary>
+			<p>Joint Public Art Consultant with Hazel Colquhoun - 3 year programme - commissioned works for roundabouts 
+Ashford, artists Robert Koenig and Catharyne Ward, appointment of lead artists new arts centre Andrew Sabin &amp; 
+Doug Green, artist design team member for Thanet DC, artist Nayan Kulkarni and strategy development, work for 
+Shepway and Dover including public art policy development and a vision for a programme of temporary work along 
+the A20 in Dover by Muf. Architecture week conference organiser. Artists and officer training programmes, 
+strategy and policy for decommissioning </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>outofdarkness</id>
+		<name>Out Of Darkness</name>
+		<client>Wolverhampton MBC</client>
+		<clientid>wolverhampton</clientid>
+		<artists>
+			<artist>Martin Richman</artist>
+			<artist>Peter Fink</artist>
+			<artist>Tony Cooper</artist>
+			<artist>Marion Kalmus</artist>
+			<artist>Heinrich &amp; Palmer</artist>
+			<artist>Janet Hodgson</artist>
+			<artist>Richard Ellis</artist>
+			<artist>David Ward</artist>
+			<artist>Chris Baldwin</artist>
+			<artist>Ally Wallace</artist>
+			<artist>Anne Bean &amp; Blissbody</artist>
+			<artist>Pierre Vivant</artist>
+			<artist>Ron Haseldon</artist>
+			<artist>Robin Blackledge</artist>
+			<artist>Siobhan Davies</artist>
+			<artist>Tom Grimsey</artist>
+			<artist>Colin Andrews</artist>
+			<artist>Mark Sutton Vane</artist>
+			<artist>David Gibbons</artist>
+		</artists>
+		<summary>
+			<p>Commissions Manager - Extensive programme of permanent and temporary work using lighting technologies; 
+artists including Martin Richman, Peter Fink, Tony Cooper, Marion Kalmus, Heinrich &amp; Palmer, Janet Hodgson, 
+Richard Ellis, David Ward with Chris Baldwin, Ally Wallace, Anne Bean &amp; Blissbody, Pierre Vivant, Ron Haseldon, 
+Robin Blackledge, Siobhan Davies, Tom Grimsey, Colin Andrews, Mark Sutton Vane, David Gibbons of Urban Projects.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>forestofdean</id>
+		<name>Forest of Dean Sculpture Trail</name>
+		<client>Forest of Dean Sculpture Trust</client>
+		<clientid>forestofdean</clientid>
+		<artists>
+			<artist>Neville Gabie</artist>
+			<artist>Stephan Gec</artist>
+			<artist>Rheinhild Beuther</artist>
+			<artist>Phillip Reilly</artist>
+			<artist>Blissbody</artist>
+			<artist>Robin Blackledge</artist>
+			<artist>Lulu Quinn &amp; Julie Westerman</artist>
+			<artist>Tony Sinden</artist>
+			<artist>David Gibbons</artist>
+			<artist>Elise Hurcombe</artist>
+			<artist>Erika Tan</artist>
+			<artist>Jane Spray</artist>
+		</artists>
+		<period>2000-2003</period>
+		<summary>
+			<p>Appointment to look at the vision and future structuring and management for the trail - this work has 
+included developing a review / training session to explore the organisational structure and roles and responsibilities 
+of the Trail Trustees. Contribution to Foot and Mouth Recovery Plan. Project Manager YOTA Project - artists 
+Neville Gabie, Stephan Gec, Rheinhild Beuther, Phillip Reilly. Commission for 2002 with Erika Tan.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>bedgebury</id>
+		<name>Bedgebury Pinetum</name>
+		<client>Forest Enterprise</client>
+		<clientid>forestenterprise</clientid>
+		<summary>
+			<p>Art consultation development of an arts strategy for the Pinetum for Forest enterprise funded by FE and SEA.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>stratforduponavon</id>
+		<name>Stratford upon Avon District Council</name>
+		<client>Stratford upon Avon District Council</client>
+		<clientid>stratforduponavon</clientid>
+		<artists>
+			<artist>Janet Hodgson</artist>
+		</artists>
+		<period>2000</period>
+		<summary>
+			<p>Public Art Consultant on new pedestrianisation scheme, artist working with text and language</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>artpoint</id>
+		<name>Artpoint</name>
+		<artists>
+			<artist>Lulu Quinn</artist>
+			<artist>muf</artist>
+		</artists>
+		<summary>
+			<p>Project Manager for Reading's Millennium Projections</p>
+			<p class="post">Artists: Lulu Quinn - residency with the Environmental Agency exhibition and projection 
+project; MUF Art and Architecture Hexagon Theatre Projection working with primary school.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>specialneeds</id>
+		<name>Welcombe Hills Special Needs School</name>
+		<client>Warwickshire County Council</client>
+		<clientid>warwickshirecc</clientid>
+		<artists>
+			<artist>Esther Callaghan</artist>
+			<artist>Peppy Hills</artist>
+			<artist>Mushtaq Ahmed</artist>
+		</artists>
+		<summary>
+			<p>Pilot project with Esther Callaghan &#40;visual arts&#41;, Peppy Hills &#40;dancer&#41; and Mushtaq Ahmed 
+&#40;disabled video artist&#41;. Feasibility study and recommendations for public art in SENS in Warwickshire. 
+Permanent commission completed Winter 2001. </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>baa</id>
+		<name>BAA Art Programme</name>
+		<client>British Airports Authority</client>
+		<clientid>baa</clientid>
+		<artists>
+			<artist>Matthew Dalziel &amp; Louise Scullion</artist>
+			<artist>John Newling</artist>
+		</artists>
+		<period>1997</period>
+		<summary>
+			<p>New Media Educational Commission - sited Terminal 1 - <br /> 
+	    Julie Myers and Matthew White working with Art and Design students </p>
+			<p>World Business Centre - Permanent Commission two buildings</p>
+			<p>Artists: Matthew Dalziel &amp; Louise Scullion &#40;sound and video installation&#41;;
+	    <br /> 
+	    John Newling &#40;permanent sculptural intervention&#41;. </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>stampinguncertainty</id>
+		<name>Stamping Uncertainty</name>
+		<client>Canterbury City Council</client>
+		<clientid>canterbury</clientid>
+		<artists>
+			<artist>John Newling</artist>
+		</artists>
+		<summary>
+			<p>The work was realised as an installation that ran for 5 weeks consisting of nineteen 
+			rows of lecterns with eight lecterns per row, covering the whole floor area of the Chapter House. 
+			With the lecterns facing the far wall of the Chapter House, they face in the manner of the 
+			congregation. The stamps on the lecterns in the order they arise in the hymn book. 
+			Moving through the installation is to travel through the sequence of intense poetic uncertainty.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>Yes</casestudy>
+	</project>
+	<project>
+		<id>cplex</id>
+		<name>c/PLEX</name>
+		<summary>
+			<p>Arts Commissioner Member of Arts Team working with Jubilee Arts to deliver the art and architecture programme 
+for c/PLEX. The main framework for the commission programme is in place and from July 2000.</p>
+			<p class="post">Artists involved in development work, Nathan Coley, Stefan Gec, Marion Kalmus, David Ward, 
+	  Url and Adam Caplin </p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+	<project>
+		<id>fact</id>
+		<name>FACT Liverpool</name>
+		<artists>
+			<artist>Clive Gilman</artist>
+		</artists>
+		<summary>
+			<p>Public Art advisor Advisor to FACT contribution to the Lottery application and preparation brief and 
+management of appointment process of artist to collaborate in new build scheme.</p>
+		</summary>
+		<status>Completed</status>
+		<casestudy>No</casestudy>
+	</project>
+</projects>

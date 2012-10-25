@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<images xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<image>
+		<file>random_01.jpg</file>
+		<name>Photogenic Tracings</name>
+		<artist>Katayoun Dowlatshahi</artist>
+		<project>Westonbirt International Festival of the Garden</project>
+		<client>Forest Enterprise</client>
+	</image>
+	<image>
+		<file>random_02.jpg</file>
+		<name>Wolverhampton Art Gallery (temporary installation)</name>
+		<artist>Martin Richman</artist>
+		<project>Out Of Darkness</project>
+		<client>Wolverhampton City Council</client>
+	</image>
+	<image>
+		<file>random_03.jpg</file>
+		<name>Critical Mass</name>
+		<artist>Lulu Quinn &amp; Julie Westerman</artist>
+		<project>Wolverhampton University</project>
+		<client>Wolverhampton University</client>
+	</image>
+	<image>
+		<file>random_04.jpg</file>
+		<name>Duration of a Wish</name>
+		<artist>John Newling</artist>
+		<project>BAA Art Programme</project>
+		<client>BAA </client>
+	</image>
+	<image>
+		<file>random_05.jpg</file>
+		<name>Precinct Roof</name>
+		<artist>Nayan Kulkarni</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_06.jpg</file>
+		<name>China Stone</name>
+		<artist>Neville Gabie</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_07.jpg</file>
+		<name>Archigram</name>
+		<artist>Leo Fitzmaurice</artist>
+		<project>BS1 Art Programme, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_08.jpg</file>
+		<name>Roche</name>
+		<artist>Susanna Heron</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_09.jpg</file>
+		<name>New Moon</name>
+		<artist>Claire Morgan</artist>
+		<project>Sparks - Make It Real</project>
+		<client>Canterbury City Council</client>
+	</image>
+	<image>
+		<file>random_10.jpg</file>
+		<name>Ancient &amp; Modern</name>
+		<artist>Patrick Shanahan</artist>
+		<project>Princesshay Development, Exeter</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random_11.jpg</file>
+		<name>Past Present Fuschia</name>
+		<artist>Ralph Hoyte</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_12.jpg</file>
+		<name>All the world is two</name>
+		<artist>Vong Phaophanit &amp; Claire Oboussier</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_13.jpg</file>
+		<name>Leave</name>
+		<artist>Claire Morgan</artist>
+		<project>Westonbirt International Festival of the Garden</project>
+		<client>Forest Enterprise</client>
+	</image>
+	<image>
+		<file>random_14.jpg</file>
+		<name>Lighshift</name>
+		<artist>David Gibbons</artist>
+		<project>Lightshift</project>
+		<client>Forest of Dean Sculpture Trust</client>
+	</image>
+	<image>
+		<file>random_15.jpg</file>
+		<name>Celestial Banquet</name>
+		<artist>Patricia MacKinnon-Day</artist>
+		<project>Westonbirt International Festival of the Garden</project>
+		<client>Forest Enterprise</client>
+	</image>
+	<image>
+		<file>random_16.jpg</file>
+		<name>Canteen </name>
+		<artist>Neville Gabie</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random_17.jpg</file>
+		<name>BS1 art project</name>
+		<artist>Dan Perjovschi</artist>
+		<project>BS1 Art Programme, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random1_01.jpg</file>
+		<name>Cabot Circus Cantata</name>
+		<artist>Neville Gabie</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random1_02.jpg</file>
+		<name>Duration of a Wish</name>
+		<artist>John Newling</artist>
+		<project>BAA Art Programme</project>
+		<client>British Airports Authority</client>
+	</image>
+	<image>
+		<file>random1_03.jpg</file>
+		<name>The Time Machine</name>
+		<artist>Janet Hodgson</artist>
+		<project>Whitefriars Development Art Programme</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_04.jpg</file>
+		<name>Portrait in shop window</name>
+		<artist>Grennan &amp; Sperandio</artist>
+		<project>Whitefriars Development Art Programme</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_05.jpg</file>
+		<name>Temporary mural on hoardings</name>
+		<artist>Grennan &amp; Sperandio</artist>
+		<project>Willow Place, Corby</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_06.jpg</file>
+		<name>Ancient &amp; Modern</name>
+		<artist>Patrick Shanahan</artist>
+		<project>Princesshay Development, Exeter</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_07.jpg</file>
+		<name>The Exeter Traceries</name>
+		<artist>Katayoun Dowlatshahi</artist>
+		<project>Princesshay Development, Exeter</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_08.jpg</file>
+		<name>Lightshift</name>
+		<artist>Lighshift team</artist>
+		<project>Lightshift</project>
+		<client>Forest of Dean Sculpture Trust</client>
+	</image>
+	<image>
+		<file>random1_09.jpg</file>
+		<name>RAW</name>
+		<artist>Neville Gabie</artist>
+		<project>Forest of Dean Sculpture Trail</project>
+		<client>Forest of Dean Sculpture Trust</client>
+	</image>
+	<image>
+		<file>random1_10.jpg</file>
+		<name>Saturday 18th March</name>
+		<artist>Janet Hodgson</artist>
+		<project>Stratford upon Avon District Council</project>
+		<client>Stratford upon Avon District Council</client>
+	</image>
+	<image>
+		<file>random1_11.jpg</file>
+		<name>Marking Time</name>
+		<artist>Patricia MacKinnon-Day</artist>
+		<project>Princesshay Development, Exeter</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_12.jpg</file>
+		<name>Roche</name>
+		<artist>Susanna Heron</artist>
+		<project>Cabot Circus, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random1_13.jpg</file>
+		<name>Waste to Energy Plant - artist proposal</name>
+		<artist>Anna Heinrich and Leon Palmer</artist>
+		<project>Out Of Darkness</project>
+		<client>Wolverhampton City Council</client>
+	</image>
+	<image>
+		<file>random1_14.jpg</file>
+		<name>Bay Windows</name>
+		<artist>Vong Phaophanit &amp; Claire Oboussier</artist>
+		<project>Sparks - Make It Real</project>
+		<client>Canterbury City Council</client>
+	</image>
+	<image>
+		<file>random1_15.jpg</file>
+		<name>Archigram</name>
+		<artist>Leo Fitzmaurice</artist>
+		<project>BS1 Art Programme, Bristol</project>
+		<client>Bristol Alliance</client>
+	</image>
+	<image>
+		<file>random1_16.jpg</file>
+		<name>Holy Mackerel</name>
+		<artist>Susan Collins</artist>
+		<project>Whitefriars Development Art Programme</project>
+		<client>Land Securities</client>
+	</image>
+	<image>
+		<file>random1_17.jpg</file>
+		<name>Diversity </name>
+		<artist>Erika Tan</artist>
+		<project>Diversity</project>
+		<client>Forest of Dean Sculpture Trust</client>
+	</image>
+</images>

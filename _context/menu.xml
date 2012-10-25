@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+	<item>
+		<link>/</link>
+		<text>Home</text>
+	</item>
+	<item>
+		<link>/about</link>
+		<text>About us</text>
+	</item>
+	<item>
+		<link>http://insiteartsnews.blogspot.com/</link>
+		<text>Latest news</text>
+	</item>
+	<item>
+		<link>/services</link>
+		<text>Services</text>
+	</item>
+	<item>
+		<link>/projects</link>
+		<text>Projects</text>
+	</item>
+	<item>
+		<link>/clients</link>
+		<text>Clients</text>
+	</item>
+	<item>
+		<link>/artists</link>
+		<text>Artists</text>
+	</item>
+	<item>
+		<link>http://insiteartspublications.blogspot.com</link>
+		<text>Publications</text>
+	</item>
+</menu>
